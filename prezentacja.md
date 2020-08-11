@@ -12,4 +12,4 @@ MVVM stands for Model, View, ViewModel.
 ![Model Schematics](./Model.png)
 
   - Service Locator: Every user of a service has a dependency to the locator. The locator can hide dependencies to other implementations, but you do need to see the locator.
-  - Serivce/Microservice: An architectural style that structures an application as a collection of services that are. Highly maintainable and testable. Loosely coupled. Organized around business capabilities.
+  - Serivce/Microservice: An architectural style that structures an application as a collection of services. Highly maintainable and testable. Loosely coupled. Organized around business capabilities.
